@@ -6,3 +6,4 @@
 <hr>
 # Donate
 <br>
+<img src="https://github.com/zylgithub/cover/blob/master/wx/weixin.jpg" width = "569.5" height = "781" div align=center />
