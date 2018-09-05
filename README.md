@@ -4,5 +4,5 @@
 <br>
 <img src="https://github.com/zylgithub/RecyclerViewChoice/blob/master/pic/shilitu.png" width = "360" height = "640" div align=center />
 Donate
-<br>
+<hr>
 <img src="https://github.com/zylgithub/cover/blob/master/wx/weixin.jpg" width = "380" height = "520" div align=center />
