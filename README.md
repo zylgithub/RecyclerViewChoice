@@ -3,7 +3,6 @@
 ##实现的效果
 <br>
 <img src="https://github.com/zylgithub/RecyclerViewChoice/blob/master/pic/shilitu.png" width = "360" height = "640" div align=center />
-<hr>
-# Donate
+## Donate
 <br>
 <img src="https://github.com/zylgithub/cover/blob/master/wx/weixin.jpg" width = "569.5" height = "781" div align=center />
