@@ -4,7 +4,5 @@
 <br>
 <img src="https://github.com/zylgithub/RecyclerViewChoice/blob/master/pic/shilitu.png" width = "360" height = "640" div align=center />
 <h2>Donate</h2>
-<hr>
 <h3>如果您觉得对您有帮助，不妨就打赏一下吧！</h3>
 <img src="https://github.com/zylgithub/cover/blob/master/wx/weixin.jpg" width = "380" height = "520" div align=center />
-
